@@ -2,6 +2,8 @@
 
 This is a simple metadata extractor for YouTube videos; useful for OSINT investigations and data recollection. This simple code was originally inspired by the now defunct [YouTube Data Viewer](https://citizenevidence.org/2014/07/01/youtube-dataviewer/) published by Amnesty International. 
 
+Yes, vibe-coded. It's just a simple tool. 
+
 # Instructions
 
 1. Download the `youtube_extractor.py` file.
